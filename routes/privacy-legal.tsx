@@ -29,7 +29,7 @@ export default function PrivacyLegal() {
           <p>
             The privacy of users is of utmost importance to Ozzao. We strive to
             comply with all applicable laws and regulations in protecting our
-            users’ personal data, including GDPR and the California Consumer
+            users personal data, including GDPR and the California Consumer
             Privacy Act.
           </p>
           <p>
